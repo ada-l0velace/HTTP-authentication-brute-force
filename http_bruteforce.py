@@ -5,7 +5,7 @@ from sys import platform as _platform
 import socket
 
 concurrent = 200
-url = "Url"
+url = "http://localhost/pass.php"
 lock = Lock()
 
 
